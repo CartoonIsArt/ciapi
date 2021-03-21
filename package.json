@@ -19,7 +19,7 @@
     "typescript": "^4.2.3"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
+    "chai": "^4.3.4",
     "koa-static": "^5.0.0",
     "mocha": "^5.0.1",
     "ts-node": "^5.0.1",
